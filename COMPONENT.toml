@@ -3,7 +3,7 @@ name = "SigmaOS-system-monitor2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "system-monitor2 component"
+description = "System Monitor system monitor compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
